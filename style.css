@@ -1,0 +1,23 @@
+img {
+  border-radius: 50%;
+}
+
+body{
+	background-color:LightBlue;
+	font-family:Arial;
+}
+.red{
+	color:blue;
+	font-size:32px;
+
+}
+.bigFont{
+	
+	font-size:32px;
+}
+#specialStyle{
+	width:30%;
+	border:2px solid red;
+	background-color:yellow;
+}
+h1 { color: #d54d7b; font-family: "Great Vibes", cursive; font-size: 100px; line-height: 100px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 1px 1px #fff; }
